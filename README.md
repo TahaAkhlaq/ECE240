@@ -41,7 +41,7 @@ A breakdown of the different stages of the Theremin circuit.
 The final implemented version of the Theremin circuit.  
 ![Circuit Image](Theremin/Circuit%20Image.png)  
 
-### [Demo Video: Theremin in Action](Theremin/Theremin-Working-Demo.mp4?raw=1 "A short clip showing pitch/volume control via hand proximity.")
+### [Demo Video:](Theremin/Theremin-Working-Demo.mp4?raw=1 "A short clip showing pitch/volume control via hand proximity.") Theremin in Action
 ---
 
 ## **Copyright & Licensing**  
